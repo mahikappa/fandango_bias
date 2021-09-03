@@ -1,2 +1,2 @@
-# fandango_bias
-Checking bias in Fandango's website movie ratings
+# Fandango Bias
+Checking for biases in the movie ratings of Fandango's website.
